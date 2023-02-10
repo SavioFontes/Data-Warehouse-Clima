@@ -7,3 +7,10 @@ Criar um Data Warehouse que mostra a relação entre os casos de doenças de cov
 A base de dados foi trabalhada em python.
 
 E suas buscas finais foram feitais em SQL.
+
+
+Devido aos arquivos de dados serem muito grandes, só coloquei os scripts aqui
+
+Dados foram retirados de:
+Datasus. “SRAG 2021 e 2022 - Banco de Dados de Síndrome Respiratória Aguda Grave - incluindo dados da COVID-19 - OPENDATASUS.” OPENDATASUS, 2022, https://opendatasus.saude.gov.br/dataset/srag-2021-e-2022. Accessed 18 May 2022.
+INMET. “Climate Weather Surface of Brazil - Hourly.” Kaggle, outubro 2021, https://www.kaggle.com/datasets/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region. Accessed 18 May 2022.
