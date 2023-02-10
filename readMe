@@ -1,0 +1,21 @@
+anotações:
+devemos dropar os sintomas de grupo sintomas?
+avisar que preenchemos as tabelas sintomas/saude com 0. se o exame foi ignorado, falamos que o exame da negativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ao usar o arquivo saude_doencas_grupo_e_relacionamento.py para criar o arquivo doencas_ponte.csv, devemos remover a tupla (1,0)
+Ao usar o arquivo saude_sintomas_grupo_e_relacionamento.py para criar o arquivo sintoma_ponte.csv, devemos remover a tupla (1,0)
+
+As funções na main de cada script estão comentadas, porque a gente fazia a conferência dos arquivos sendo gerados função por função
