@@ -1,21 +1,9 @@
-anotações:
-devemos dropar os sintomas de grupo sintomas?
-avisar que preenchemos as tabelas sintomas/saude com 0. se o exame foi ignorado, falamos que o exame da negativo.
+Trabalho Feito para a matéria de Processamento Análitico de Dados
 
 
+Criar um Data Warehouse que mostra a relação entre os casos de doenças de covid de 2020 e o clima do ano
 
 
+A base de dados foi trabalhada em python.
 
-
-
-
-
-
-
-
-
-
-Ao usar o arquivo saude_doencas_grupo_e_relacionamento.py para criar o arquivo doencas_ponte.csv, devemos remover a tupla (1,0)
-Ao usar o arquivo saude_sintomas_grupo_e_relacionamento.py para criar o arquivo sintoma_ponte.csv, devemos remover a tupla (1,0)
-
-As funções na main de cada script estão comentadas, porque a gente fazia a conferência dos arquivos sendo gerados função por função
+E suas buscas finais foram feitais em SQL
